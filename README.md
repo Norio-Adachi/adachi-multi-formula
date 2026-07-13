@@ -21,6 +21,9 @@
 | No2_B.pdf | 一般形・No.2統一分数形・検証レポート・実装ノートなど | 英語 |
 
 ## 考案者
+本プロジェクトは、独学による円周率計算アルゴリズムの探究およびその検証プロセスを公開するものです。現在、既存のBBP系公式との対応関係を分析しており、計算効率と数学的妥当性の両立を目指しています。数学的なご指摘や建設的なフィードバックを歓迎いたします。
+
+This project documents my independent research and verification process for pi calculation algorithms. I am currently analyzing the relationship between my formulas and existing BBP-type formulas, aiming to balance computational efficiency with mathematical validity. I welcome mathematical insights and constructive feedback.
 
 安達則男（3.5次元男）
 
