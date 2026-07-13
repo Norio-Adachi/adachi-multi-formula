@@ -1,4 +1,4 @@
-# 足立マルチフォーミュラ（Adachi Multi-Formula）
+# 安達マルチフォーミュラ（Adachi Multi-Formula）
 
 安達マルチ公式 - 円周率計算公式の研究資料
 
