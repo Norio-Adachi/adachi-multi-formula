@@ -27,6 +27,8 @@ This project documents my independent research and verification process for pi c
 
 安達則男（3.5次元男）
 
+DOI (Official Research Record): https://doi.org/10.6084/m9.figshare.32968769
+
 ## 検討・検証
 
 Claude（Anthropic）、Gemini（Google）
