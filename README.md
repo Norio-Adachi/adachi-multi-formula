@@ -28,6 +28,12 @@ This project documents my independent research and verification process for pi c
 
 安達則男（3.5次元男）
 
+![Möbius ring](Jp_メビウスリング.png)
+
+> Like a Möbius strip with no distinct front or back, code verification only reveals its true form when you examine both the surface and what lies beneath.
+
+DOI (Official Research Record): https://doi.org/10.6084/m9.figshare.32968769
+
 DOI (Official Research Record): https://doi.org/10.6084/m9.figshare.32968769
 
 ## 検討・検証
